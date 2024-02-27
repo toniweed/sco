@@ -1,0 +1,2 @@
+# sco
+Trying new project
